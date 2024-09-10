@@ -12,3 +12,25 @@
 
 ###
 /.build
+
+### 
+/.fabric
+/logs
+/versions
+
+###
+/world
+/world_nether
+/world_the_end
+/Lobby/advancements
+/Lobby/playerdata
+
+### 
+/banned-ips.json
+/banned-players.json
+/ops.json
+/usercache.json
+/whitelist.json
+
+### 
+/start.bat

@@ -1,0 +1,21 @@
+command-block-overrides: []
+ignore-vanilla-permissions: false
+aliases:
+  wl:
+  - whitelist $$1-
+  gc:
+  - gamemode creative
+  gs:
+  - gamemode survival
+  v:
+  - vanish
+  lobby:
+  - mvtp Lobby
+  world:
+  - mvtp world
+  end:
+  - mvtp world_the_end
+  nether:
+  - mvtp world_nether
+  icanhasbukkit:
+  - version $1-
