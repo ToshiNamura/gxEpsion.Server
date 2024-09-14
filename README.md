@@ -46,8 +46,28 @@
 | Memory Leak Fix               | _v.1.1.5_        | [GitHub](https://github.com/fxmorin/memoryLeakFix)                           | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                                 |
 | ModernFix                     | _v.5.19.4_       | [GitHub](https://github.com/embeddedt/ModernFix)                             | [Modrinth](https://modrinth.com/mod/modernfix/version/5.19.4+mc1.20.1)                            |
 | spark                         | _v.1.10.53_      | [GitHub](https://github.com/lucko/spark)                                     | [Modrinth](https://modrinth.com/mod/spark/version/1.10.53-fabric)                                 |
-| Not Enough Crashes            | _v.4.4.7_        | [GitHub](https://github.com/natanfudge/Not-Enough-Crashes)                   | [Modrinth](https://modrinth.com/mod/notenoughcrashes/version/4.4.7+1.20.1-fabric)                 |
 | Packet Fixer                  | _v.1.4.2_        | [GitHub](https://github.com/TonimatasDEV/PacketFixer)                        | [Modrinth](https://modrinth.com/mod/packet-fixer/version/djNw6g8u)                                |
 | Ksyxis                        | _v.1.3.2_        | [GitHub](https://github.com/VidTu/Ksyxis)                                    | [Modrinth](https://modrinth.com/mod/ksyxis/version/1.3.2)                                         |
+
+</details>
+<details>
+<summary>Food</summary>
+
+| Mod name                      | Version          | Source                                                                       | Download                                                                                          |
+| :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| Barbeque‘s Delight            | _v.1.1.0_        | [GitHub](https://github.com/AOMIAOMAO/BarbequesDelight)                      | [Modrinth](https://modrinth.com/mod/barbeques-delight/version/1.1.0)                              |
+| Brewin' And Chewin            | _v.3.0.6_        | [GitHub](https://github.com/mrsterner/BrewinAndChewin-Fabric)                | [Modrinth](https://modrinth.com/mod/brewin-and-chewin-fabric/version/3.0.6+1.20.1)                |
+| Cake Delight                  | _v.3.0.3_        | [GitHub](https://github.com/xhanhh/CakeDelight-fabric)                       | [Modrinth](https://modrinth.com/mod/cakedelight/version/1.20.1-v3.0.3)                            |
+| Casualness Delight            | _v.0.4_          | [GitHub](https://github.com/TobishiroGinko/Casualness-Delight)               | [Modrinth](https://modrinth.com/mod/casualness-delight/version/1.20.1-0.4-FDR)                    |
+| Corn Delight                  | _v.1.1.3_        | [GitHub](https://github.com/KreloX/CornDelight)                              | [Modrinth](https://modrinth.com/mod/corn-delight-fabric/version/1.20.1-1.1.3)                     |
+| Cultural Delights             | _v.1.0.5_        | [GitHub](https://github.com/mrsterner/Cultural-Delights-Fabric)              | [Modrinth](https://modrinth.com/mod/cultural-delights-fabric/version/1.0.5+1.20.1)                |
+| End's Delight                 | _v.2.1_          | [GitHub](https://github.com/FoggyHillside/End-s-Delight)                     | [Modrinth](https://modrinth.com/mod/ends-delight/version/refabricated-1.20.1-2.1)                 |
+| Expanded Delight              | _v.0.3.2_        | [GitHub](https://github.com/ianm1647/expandeddelight)                        | [Modrinth](https://modrinth.com/mod/expanded-delight/version/0.3.2-fabric)                        |
+| Farmer's Delight Refabricated | _v.2.1.6_        | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated)        | [Modrinth](https://modrinth.com/mod/farmers-delight-refabricated/version/1.20.1-2.1.6)            |
+| Herbal Delight                | _v.1.3_          | [GitHub](https://github.com/Super-McTea/herbal-delight)                      | [Modrinth](https://modrinth.com/mod/herbal-delight/version/1.3-patch3)                            |
+| Nethers Delight               | _v.4.1.1_        | [GitHub](https://github.com/DragonsPlusMinecraft/NethersDelightRefabricated) | [Modrinth](https://modrinth.com/mod/nethers-delight-refabricated/version/1.20.1-4.1.1)            |
+| Ocean's Delight               | _v.1.0.2_        | [GitHub](https://github.com/Scouter456/Oceans_Delight)                       | [Modrinth](https://modrinth.com/mod/oceans-delight/version/fdrf-fabric-1.0.2-1.20)                |
+| Pineapple Delight             | _v.1.0.11_       | [GitHub](https://github.com/AmarokIce/PineappleDelight)                      | [Modrinth](https://modrinth.com/mod/pineapple-delight/version/1.0.10)                             |
+| Pumpkin Pie Delight           | _v.1.0.1_        | [GitHub](https://github.com/Chailotl/pumpkin-pie)                            | [Modrinth](https://modrinth.com/mod/pumpkin-pie-delight/version/1.0.1)                            |
 
 </details>
