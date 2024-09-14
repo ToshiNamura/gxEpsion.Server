@@ -20,6 +20,13 @@
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
   "barbequesdelight:grill": null,
+  "ae2:server_data": null,
+  "create:blaze_burner": null,
+  "create:backtank_capacity": null,
+  "create:contraption_inv": null,
+  "lootr:inventory": null,
+  "create:hide_boiler_tanks": null,
+  "ae2:server_data": null,
   "barbequesdelight:grill": null,
   "jade:object_name": null,
   "minecraft:brewing_stand": null,
@@ -40,5 +47,10 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null
+  "minecraft:progress": null,
+  "create:blaze_burner": null,
+  "create:backtank_capacity": null,
+  "create:contraption_inv": null,
+  "lootr:inventory": null,
+  "create:hide_boiler_tanks": null
 }

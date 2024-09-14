@@ -80,3 +80,35 @@
 | BetterNether                  | _v.9.0.10_       | [GitHub](https://github.com/quiqueck/BetterNether)                           | [Modrinth](https://modrinth.com/mod/betternether/version/9.0.10)                                  |
 
 </details>
+<details>
+<summary>Technology</summary>
+
+| Mod name                      | Version          | Source                                                                             | Download                                                                                          |
+| :---------------------------- | :--------------: | :-------------------------------------------------------------------------------:  | :-----------------------------------------------------------------------------------------------: |
+| Create Crafts & Additions     | _v.1.2.4_        | [GitHub](https://github.com/mrh0/createaddition)                                   | [Modrinth](https://modrinth.com/mod/createaddition/version/vV4bZmhm)                              |
+| Create Fabric                 | _v.0.5.1.f_      | [GitHub](https://github.com/Fabricators-of-Create/Create)                          | [Modrinth](https://modrinth.com/mod/create-fabric/version/0.5.1-f-build.1417+mc1.20.1)            |
+| Create Slice & Dice           | _v.3.2.3_        | [GitHub](https://github.com/PssbleTrngle/SliceAndDice)                             | [Modrinth](https://modrinth.com/mod/slice-and-dice/version/3.2.3)                                 |
+| Create: Steam 'n' Rails       | _v.1.6.4_        | [GitHub](https://github.com/Layers-of-Railways/Railway)                            | [Modrinth](https://modrinth.com/mod/create-steam-n-rails/version/1.6.4+fabric-mc1.20.1)           |
+| Create Cobblestone            | _v.1.3.1-36_     | [GitHub](https://github.com/StickyPiston-development/CreateCobblestone)            | [Modrinth](https://modrinth.com/mod/create-cobblestone/version/1.3.1+fabric-1.20.1-36)            |
+| Industrial Revolution         | _v.1.16.7_       | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/5254377)    |
+| Applied Energistics 2         | _v.15.2.12_      | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2)              | [Modrinth](https://modrinth.com/mod/ae2/version/15.2.12)                                          |
+| Botania                       | _v.446_          | [GitHub](https://github.com/VazkiiMods/Botania)                                    | [Modrinth](https://modrinth.com/mod/botania/version/1.20.1-446-fabric)                            |
+| Create Deco                   | _v.2.0.2_        | [GitHub](https://github.com/talrey/CreateDeco)                                     | [Modrinth](https://modrinth.com/mod/create-deco/version/2.0.2-1.20.1-fabric)                      |
+| Create Enchantment Industry   | _v.1.2.16_       | [GitHub](https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry-Fabric) | [Modrinth](https://modrinth.com/mod/create-enchantment-industry-fabric/version/1.2.16)            |
+| Create Jetpack                | _v.4.2.0_        | [GitHub](https://github.com/PssbleTrngle/CreateJetpack)                            | [Modrinth](https://modrinth.com/mod/create-jetpack/version/IwBgWAGw)                              |
+| Create: Storage               | _v.0.20_         | [GitHub](https://github.com/foxynotail/create-storage-mod-fabric)                  | [Modrinth](https://modrinth.com/mod/fxnt-create-storage/version/0.20-1.20.1)                      |
+| Create: Metalwork             | _v.1.0.7_        | [GitHub](https://github.com/AverageAnime/create-metalwork)                         | [Modrinth](https://modrinth.com/mod/create-metalwork/version/PsMHqtth)                            |
+| ME Requester                  | _v.1.1.4_        | [GitHub](https://github.com/AlmostReliable/merequester)                            | [Modrinth](https://modrinth.com/mod/merequester/version/1.20.1-1.1.4+fabric)                      |
+| Applied Botanics              | _v.1.5.0_        | [GitHub](https://github.com/ramidzkh/Applied-Botanics)                             | [Modrinth](https://modrinth.com/mod/applied-botanics/version/1.5.0-fabric)                        |
+| Create: Extended Cogwheels    | _v.2.1.1_        | [GitHub](https://github.com/Rabbitminers/Extended-Cogwheels)                       | [Modrinth](https://modrinth.com/mod/extended-cogwheels/version/2.1.1-1.20.1-0.5.1.f-fabric)       |
+
+</details>
+<details>
+<summary>Decoration</summary>
+
+| Mod name                      | Version          | Source                                                                       | Download                                                                                          |
+| :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| Fusion                        | _v.1.1.1_        | [GitHub](https://github.com/SuperMartijn642/Fusion)                          | [Modrinth](https://modrinth.com/mod/fusion-connected-textures/version/1.1.1-fabric-mc1.20.1)      |
+| Rechiseled                    | _v.1.1.6_        | [GitHub](https://github.com/SuperMartijn642/Rechiseled)                      | [Modrinth](https://modrinth.com/mod/rechiseled/version/1.1.6-fabric-mc1.20)                       |
+
+</details>

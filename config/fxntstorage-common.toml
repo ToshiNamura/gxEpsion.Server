@@ -1,0 +1,16 @@
+
+#General Settings
+[general_settings]
+
+	#Storage Box Settings
+	[general_settings.strorage_box_settings]
+		#How many ticks pass before Storage Controllers & Interfaces update their connection to the Storage Network
+		storage_box_update_time = 20
+		#How many blocks away from a controller will be checked as part of the storage network
+		#Range: 8 ~ 64
+		simple_storage_network_range = 32
+		#How much fuel is used per tick while flying
+		jetpack_fuel_depletion_amount = 0.011
+		#BackPack Magnet Range (In Blocks)
+		backpack_magnet_range = 5
+
