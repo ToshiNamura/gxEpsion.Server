@@ -35,3 +35,19 @@
 | Chunky Extension              | _v.2.1.1_        | [GitHub](https://github.com/2Lynk/Chunky-Extended)                           | [Modrinth](https://modrinth.com/mod/chunky-extension/version/2.1.1)                               |
 
 </details>
+<details>
+<summary>Optimization</summary>
+
+| Mod name                      | Version          | Source                                                                       | Download                                                                                          |
+| :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| LazyDFU                       | _v.0.1.3_        | [GitHub](https://github.com/astei/lazydfu)                                   | [Modrinth](https://modrinth.com/mod/lazydfu/version/0.1.3)                                        |
+| Let Me Despawn                | _v.1.2.1_        | [GitHub](https://github.com/frikinjay/let-me-despawn)                        | [Modrinth](https://modrinth.com/plugin/lmd/version/CCOsRL93)                                      |
+| Lithium                       | _v.0.11.2_       | [GitHub](https://github.com/caffeinemc/lithium-fabric)                       | [Modrinth](https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2)                              |
+| Memory Leak Fix               | _v.1.1.5_        | [GitHub](https://github.com/fxmorin/memoryLeakFix)                           | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                                 |
+| ModernFix                     | _v.5.19.4_       | [GitHub](https://github.com/embeddedt/ModernFix)                             | [Modrinth](https://modrinth.com/mod/modernfix/version/5.19.4+mc1.20.1)                            |
+| spark                         | _v.1.10.53_      | [GitHub](https://github.com/lucko/spark)                                     | [Modrinth](https://modrinth.com/mod/spark/version/1.10.53-fabric)                                 |
+| Not Enough Crashes            | _v.4.4.7_        | [GitHub](https://github.com/natanfudge/Not-Enough-Crashes)                   | [Modrinth](https://modrinth.com/mod/notenoughcrashes/version/4.4.7+1.20.1-fabric)                 |
+| Packet Fixer                  | _v.1.4.2_        | [GitHub](https://github.com/TonimatasDEV/PacketFixer)                        | [Modrinth](https://modrinth.com/mod/packet-fixer/version/djNw6g8u)                                |
+| Ksyxis                        | _v.1.3.2_        | [GitHub](https://github.com/VidTu/Ksyxis)                                    | [Modrinth](https://modrinth.com/mod/ksyxis/version/1.3.2)                                         |
+
+</details>
