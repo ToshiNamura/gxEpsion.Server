@@ -71,3 +71,12 @@
 | Pumpkin Pie Delight           | _v.1.0.1_        | [GitHub](https://github.com/Chailotl/pumpkin-pie)                            | [Modrinth](https://modrinth.com/mod/pumpkin-pie-delight/version/1.0.1)                            |
 
 </details>
+<details>
+<summary>World Generation</summary>
+
+| Mod name                      | Version          | Source                                                                       | Download                                                                                          |
+| :---------------------------- | :--------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| BetterEnd                     | _v.4.0.11_       | [GitHub](https://github.com/quiqueck/BetterEnd)                              | [Modrinth](https://modrinth.com/mod/betterend/version/4.0.11)                                     |
+| BetterNether                  | _v.9.0.10_       | [GitHub](https://github.com/quiqueck/BetterNether)                           | [Modrinth](https://modrinth.com/mod/betternether/version/9.0.10)                                  |
+
+</details>
